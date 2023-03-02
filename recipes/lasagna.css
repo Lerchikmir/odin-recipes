@@ -1,0 +1,25 @@
+img {
+    height: auto;
+    width: 400px;
+}
+
+
+#name {
+    font-size: 50px;
+    color: rgb(245, 219, 147);
+}
+
+ body {
+    background-color: rgb(122, 85, 17);
+    color: rgb(245, 219, 147);
+ }
+
+ .list.one {
+    background-color: rgb(223, 189, 116);
+    color: rgb(122, 85, 17);
+ }
+
+ #ing {
+    background-color: rgb(223, 189, 116);
+    color: rgb(122, 85, 17);
+ }
